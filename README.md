@@ -3,10 +3,9 @@
 ![IMG_0118](https://github.com/Galile-Vincent/WWDC-StudentChallenge-foodSaviour/assets/110913833/34ccd47d-023c-47f1-a912-86d488510f74)
 
 # iPad Version
-<img src="https://github.com/Galile-Vincent/WWDC-StudentChallenge-foodSaviour/assets/110913833/3c4e717c-a1c9-42a0-b6ba-aa36fcfe49f1" width="914" height="auto">
-<img width="914" alt="Screenshot 2023-05-09 at 10 20 10 PM" src="https://github.com/Galile-Vincent/WWDC-StudentChallenge-foodSaviour/assets/110913833/3c4e717c-a1c9-42a0-b6ba-aa36fcfe49f1">
-<img width="914" alt="Screenshot 2023-05-09 at 10 22 16 PM" src="https://github.com/Galile-Vincent/WWDC-StudentChallenge-foodSaviour/assets/110913833/cc022375-3e97-4ea4-ae76-aabced221ff1">
-<img width="914" alt="Screenshot 2023-05-09 at 10 26 03 PM" src="https://github.com/Galile-Vincent/WWDC-StudentChallenge-foodSaviour/assets/110913833/37abfb42-0e7e-4691-b51a-146762133748">
+<img width="500" alt="Screenshot 2023-05-09 at 10 20 10 PM" src="https://github.com/Galile-Vincent/WWDC-StudentChallenge-foodSaviour/assets/110913833/3c4e717c-a1c9-42a0-b6ba-aa36fcfe49f1">
+<img width="500" alt="Screenshot 2023-05-09 at 10 22 16 PM" src="https://github.com/Galile-Vincent/WWDC-StudentChallenge-foodSaviour/assets/110913833/cc022375-3e97-4ea4-ae76-aabced221ff1">
+<img width="500" alt="Screenshot 2023-05-09 at 10 26 03 PM" src="https://github.com/Galile-Vincent/WWDC-StudentChallenge-foodSaviour/assets/110913833/37abfb42-0e7e-4691-b51a-146762133748">
 <img width="914" alt="Screenshot 2023-05-09 at 10 25 34 PM" src="https://github.com/Galile-Vincent/WWDC-StudentChallenge-foodSaviour/assets/110913833/18dc5f6f-0509-4a1a-86e8-b80e5614c9c0">
 <img width="914" alt="Screenshot 2023-05-09 at 10 24 58 PM" src="https://github.com/Galile-Vincent/WWDC-StudentChallenge-foodSaviour/assets/110913833/6ecd4929-a518-48f3-a8d3-b9ca484601b4">
 <img width="914" alt="Screenshot 2023-05-09 at 10 24 19 PM" src="https://github.com/Galile-Vincent/WWDC-StudentChallenge-foodSaviour/assets/110913833/42d6f082-b03c-4b25-b79d-fac61604e126">
