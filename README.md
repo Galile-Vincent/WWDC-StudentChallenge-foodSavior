@@ -16,9 +16,9 @@
 
 # iPhone Version
 <img width="500" alt="Screenshot 2023-05-09 at 10 22 57 PM" src="https://github.com/Galile-Vincent/WWDC-StudentChallenge-foodSaviour/assets/110913833/0c564ea7-ff1f-451f-a65c-a7018df2c90c">
-![Screenshot 2023-04-08 at 4 06 02 PM](https://github.com/Galile-Vincent/WWDC-StudentChallenge-foodSaviour/assets/110913833/0c564ea7-ff1f-451f-a65c-a7018df2c90c)
-![Screenshot 2023-04-08 at 4 13 59 PM](https://github.com/Galile-Vincent/WWDC-StudentChallenge-foodSaviour/assets/110913833/241ae329-756e-4b66-b66d-8379c2beb76d)
-![Screenshot 2023-04-08 at 4 13 54 PM](https://github.com/Galile-Vincent/WWDC-StudentChallenge-foodSaviour/assets/110913833/8506e89d-2f43-4291-9ff9-771fecdae777)
-![Screenshot 2023-04-08 at 4 13 43 PM](https://github.com/Galile-Vincent/WWDC-StudentChallenge-foodSaviour/assets/110913833/7d8fe237-6dae-4839-ac44-d8d0083bf83a)
-![Screenshot 2023-04-08 at 4 10 33 PM](https://github.com/Galile-Vincent/WWDC-StudentChallenge-foodSaviour/assets/110913833/8331c457-77d9-4d11-a20f-77a74a3622c6)
-![Screenshot 2023-04-08 at 4 09 28 PM](https://github.com/Galile-Vincent/WWDC-StudentChallenge-foodSaviour/assets/110913833/8badd6ae-f11a-4e1f-b00d-852125e93364)
+<img width="500" alt="Screenshot 2023-04-08 at 4 13 59 PM" src="https://github.com/Galile-Vincent/WWDC-StudentChallenge-foodSaviour/assets/110913833/241ae329-756e-4b66-b66d-8379c2beb76d">
+<img width="500" alt="Screenshot 2023-04-08 at 4 13 54 PM" src="https://github.com/Galile-Vincent/WWDC-StudentChallenge-foodSaviour/assets/110913833/8506e89d-2f43-4291-9ff9-771fecdae777">
+<img width="500" alt="Screenshot 2023-04-08 at 4 13 43 PM" src="https://github.com/Galile-Vincent/WWDC-StudentChallenge-foodSaviour/assets/110913833/7d8fe237-6dae-4839-ac44-d8d0083bf83a">
+<img width="500" alt="Screenshot 2023-04-08 at 4 10 33 PM" src="https://github.com/Galile-Vincent/WWDC-StudentChallenge-foodSaviour/assets/110913833/8331c457-77d9-4d11-a20f-77a74a3622c6">
+<img width="500" alt="Screenshot 2023-04-08 at 4 09 28 PM" src="https://github.com/Galile-Vincent/WWDC-StudentChallenge-foodSaviour/assets/110913833/8badd6ae-f11a-4e1f-b00d-852125e93364">
+
